@@ -73,7 +73,8 @@
  contracts, 3% for two-year contracts.
  
  ○ Tenure: 50% churn in the first year, dropping to 15% after three years.
- Recommendations:
+ 
+# Recommendations:
  
  ● PromoteLong-Term Contracts: Offer incentives for customers to commit to longer
  contracts to reduce churn.
@@ -83,5 +84,6 @@
  
  ● CustomerEngagement in Early Tenure: Focus on improving the customer experience
  within the first year, as churn is highest in this period.
+ 
  ● Special Senior Citizen Retention Programs: Create personalized offers or assistance
  programs to retain the senior demographic.
