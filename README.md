@@ -1,4 +1,4 @@
-# Teco-customer-churn-analysis
+# Telco-customer-churn-analysis
 # Objective:
  The analysis explores customer churn patterns, focusing on various factors such as payment
  methods, contract types, tenure, and demographic attributes. The goal is to identify which
